@@ -33,12 +33,13 @@ This project contains several programs and resources related to **8051 Assembly 
 ## Showcase
 
 ### Button Grid Demo
+https://github.com/user-attachments/assets/83b6a957-777e-4154-829a-13d0db0e58bb
 
-<video src="Showcase with button grid.mp4" controls width="500"></video>
+
 
 ### IR Remote Demo
+https://github.com/user-attachments/assets/f6ece327-e5d3-4c8f-ae40-28e920251dbd
 
-<video src="Showcase with IR remote.mp4" controls width="500"></video>
 
 ## Requirements
 
