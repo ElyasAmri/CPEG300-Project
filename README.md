@@ -14,6 +14,8 @@ This project contains several programs and resources related to **8051 Assembly 
 | `snake button grid.asm` | 8051 Assembly source code for Snake game controlled by a button grid. |
 | `snake ir.asm` | 8051 Assembly source code for Snake game controlled by an IR remote. |
 | `snake no song.asm` | 8051 Assembly source code for Snake game without background music. |
+| `Showcase with button grid.mp4` | Video demonstration of the Snake game using button grid input. |
+| `Showcase with IR remote.mp4` | Video demonstration of the Snake game using IR remote control. |
 
 ## Key Features
 
@@ -30,13 +32,13 @@ This project contains several programs and resources related to **8051 Assembly 
 
 ## Showcase
 
-- **Button Control Demo**  
-  [![Watch the video](https://img.youtube.com/vi/VIDEO_ID_BUTTONS/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_BUTTONS)
+### Button Grid Demo
 
-- **IR Remote Control Demo**  
-  [![Watch the video](https://img.youtube.com/vi/VIDEO_ID_IR/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_IR)
+<video src="Showcase with button grid.mp4" controls width="500"></video>
 
-> Replace `VIDEO_ID_BUTTONS` and `VIDEO_ID_IR` with your actual YouTube video IDs.
+### IR Remote Demo
+
+<video src="Showcase with IR remote.mp4" controls width="500"></video>
 
 ## Requirements
 
